@@ -1,18 +1,6 @@
-
-
-Task Manager App
+Task Manager App.
 A Task Manager application built with Node.js, Express, MongoDB, HTML, CSS, and JavaScript, providing CRUD APIs for managing tasks.
 
-Table of Contents
-Features
-Requirements
-Installation
-Configuration
-Running the Application
-API Documentation
-Screenshots
-License
-Features
 Create: Add new tasks with details such as title, description, due date, etc.
 Read: Retrieve all tasks or a specific task by ID.
 Update: Modify existing tasks, including changing status or due dates.
@@ -26,9 +14,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/task-manager-app.git
+git clone https://github.com/hirensinh1513/task-manager-app.git
 cd task-manager-app
-Install dependencies:
+Install dependencies: npm install
 
 bash
 Copy code
@@ -42,7 +30,7 @@ PORT=3000
 Ensure MongoDB is running on your machine or update MONGO_URI to your MongoDB instance URL.
 
 Running the Application
-Start the application:
+Start the application: npm start
 
 bash
 Copy code
