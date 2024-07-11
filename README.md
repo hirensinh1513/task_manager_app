@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/hirensinh1513/task-manager-app.git
+git clone https://github.com/hirensinh1513/task_manager_app.git
 cd task-manager-app
 Install dependencies: npm install
 
