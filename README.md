@@ -5,7 +5,7 @@ Create: Add new tasks with details such as title, description, due date, etc.
 Read: Retrieve all tasks or a specific task by ID.
 Update: Modify existing tasks, including changing status or due dates.
 Delete: Remove tasks from the system.
-HTML/CSS Frontend: Basic frontend for interacting with the API (optional).
+HTML/CSS Frontend: Basic frontend for interacting with the API.
 Requirements
 Node.js (v14 or later)
 MongoDB
