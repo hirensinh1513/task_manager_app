@@ -1,8 +1,5 @@
-Task Manager App
-A Task Manager application built with Node.js, Express, MongoDB, HTML, CSS, and JavaScript, providing CRUD APIs for managing tasks.
 
 
-Memory updated
 Task Manager App
 A Task Manager application built with Node.js, Express, MongoDB, HTML, CSS, and JavaScript, providing CRUD APIs for managing tasks.
 
